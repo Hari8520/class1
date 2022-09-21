@@ -1,0 +1,7 @@
+class phone:
+    def phone_call(self):
+        print("calling")
+    def game_mode(self):
+        print("opening game")
+p1=phone()
+p1.phone_call()
